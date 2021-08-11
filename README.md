@@ -8,6 +8,7 @@
     - Weather Wizard Project
     - TypeScript
     - TDD
+    - Finish Clean Code book
 
 ## ReactJS
 ```js
