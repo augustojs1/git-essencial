@@ -9,6 +9,7 @@
     - TypeScript
     - TDD
     - Finish Clean Code book
+    - Finish S.O.L.I.D book
 
 ## ReactJS
 ```js
